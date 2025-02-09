@@ -1,6 +1,5 @@
 Here’s a well-structured **README.md** for your repository:  
 
-```markdown
 # 🚀 JavaScript in Action  
 
 👨‍🏫 **Developed by Mohamed Seifeddine AZZABI**  
@@ -51,5 +50,5 @@ You are free to use, modify, and share this content **with attribution**. Please
 
 💡 **Contributions & Feedback**  
 Feel free to **open issues, suggest improvements, or contribute**! Let's build great JavaScript projects together. 🚀  
-```
+
 
