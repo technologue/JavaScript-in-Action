@@ -1,5 +1,3 @@
-Here’s a well-structured **README.md** for your repository:  
-
 # 🚀 JavaScript in Action  
 
 👨‍🏫 **Developed by Mohamed Seifeddine AZZABI**  
